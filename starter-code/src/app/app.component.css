@@ -1,0 +1,9 @@
+.align-center{
+    text-align: center;
+  }
+
+  .title-color{
+      background-color: blueviolet;
+      border: 1px solid silver;
+      color: white;
+  }
